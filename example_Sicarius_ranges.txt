@@ -1,0 +1,10 @@
+9 7 (F T S D C I G)
+H_hahni_IFM1440	1000000
+H_spatulata_IFM1600	1000000
+S_andinus	0001000
+S_boliviensis_082	0001100
+S_cariri_427	0000010
+S_yurensis_512	0110000
+S_gracilis_513	0010000
+S_peruensis_506	0010000
+S_utriformis	0000001
