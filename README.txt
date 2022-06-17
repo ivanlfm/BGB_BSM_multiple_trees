@@ -152,7 +152,7 @@ CITATION
 	
 		Ceccarelli F.S., Koch N.M., Soto E.M., Barone M.L., Arnedo M.A., Ramírez M.J. 2019. The grass was greener: repeated evolution of specialized morphologies and habitat shifts in ghost spiders following grassland expansion in South America. Syst. Biol. 68:63–77.
 		
-		Magalhaes I.L.F., Santos A.J., Ramírez M.J. In preparation. Incorporating topological and age uncertainty into event-based biogeography supports palaeoislands in Galapagos and ancient connections among Neotropical dry forests.
+		Magalhaes I.L.F., Santos A.J., Ramírez M.J. 2021. Incorporating topological and age uncertainty into event-based biogeography of sand spiders supports paleoislands in Galapagos and ancient connections among Neotropical dry forests. Diversity 2021, 13, 418. https://doi.org/10.3390/d13090418
 	
 	Also, please cite the original studies describing the models you use. Below is a non-exhaustive list:
 	
