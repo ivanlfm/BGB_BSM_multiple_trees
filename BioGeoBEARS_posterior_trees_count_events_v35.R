@@ -1,15 +1,20 @@
 ################################################################################################
-###                   																		 ###
 ### Estimates ancestral ranges over a distribution of trees using BioGeoBEARS,               ###
 ### counts lineages in areas through time,                                                   ###
-### identifies most common transitions,														 ###		
+### identifies most common transitions,							     ###		
 ### and estimates the timing of transitions                                                  ###
-### by using biogeographic stochastic maps.                               			         ###
+### by using biogeographic stochastic maps.                               	             ###
 ###                                                                                          ###
 ### By Ivan L.F. Magalhaes & Martín J. Ramírez                                               ###
-###                                                                                          ###
-### Please refer to README.txt for instructions and information for citing					 ###
-###                   																		 ###
+###                   									     ###
+### If using please cite:								     ###
+### Magalhaes I.L.F., Santos A.J., Ramírez M.J. 2021. Incorporating topological and age      ###
+### uncertainty into event-based biogeography of sand spiders supports paleoislands in       ###
+### Galapagos and ancient connections among Neotropical dry forests. Diversity 13, 418       ### 
+### https://doi.org/10.3390/d13090418							     ###	
+###                   									     ###
+### Please refer to README.txt for instructions and additional  information for citing	     ###
+###                   									     ###
 ################################################################################################
 	start_time <- Sys.time()
 	
