@@ -226,3 +226,7 @@ VERSION HISTORY
 		added a check to make sure no trees are older than your oldest time slice (I had to meddle with tMax and tMax_allreps, I hope I did not break anything)
 	v37:
 		corrected a bug that prevented the script from running in non-time-stratified analysis
+	v38: 
+		added a check to compare the species list from the distribution file with the terminals present in the tree.
+		improved documentation and added a check for nodes_of_interest, correcting a bug that may prevent the script to run.
+		the script now prints taxa that were dropped from the tree due to not being listed in the geography file.
